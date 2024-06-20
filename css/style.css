@@ -1,28 +1,5 @@
 
-/*=====================================================================
 
-@Default Styles
-
-Table of Content:
-01/ Variables
-02/ predefin
-03/ header
-04/ button
-05/ banner
-06/ breadcrumb
-07/ about
-08/ team
-09/ project  
-11/ team 
-12/ blog 
-13/ video  
-14/ features  
-15/ career  
-16/ contact 
-17/ footer
-
-=====================================================================*/
-/*----------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css?family=Heebo:300,400,700,900|Roboto:300,400,500,700");
 
 
@@ -30,6 +7,7 @@ Table of Content:
   list-style: none;
   margin: 0px;
   padding: 0px; 
+  
 
 }
 
@@ -3271,3 +3249,4 @@ border-radius: 5px;
   text-decoration: none !important;
   box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
   opacity: 0.85 !important;color:#ffffff !important;}
+
